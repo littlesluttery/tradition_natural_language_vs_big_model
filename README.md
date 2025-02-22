@@ -58,5 +58,8 @@
 包括模型训练，测试和模型保存，以及单条文本的测评。要求和transformers的trainer.py格式相同。不要直接调用，需要实现模型训练过程和验证。
 
 # 核心包及其版本
-
+transformers 4.47.1
+torch 2.5.1
+vllm 0.6.4
+ms-swift 3.1.0
 ```
